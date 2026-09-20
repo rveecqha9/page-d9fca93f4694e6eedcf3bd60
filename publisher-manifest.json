@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "fc91ef9d567a3f4a23e7566e",
+  "owner": "rveecqha9",
+  "repo": "page-d9fca93f4694e6eedcf3bd60",
+  "title": "东方网络",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d9fca93f4694e6eedcf3bd60",
+      "a": "东方网络",
+      "b": "2027官方最新地址导航",
+      "entity": "东方网络",
+      "brand": "东方网络",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "6f1eac764cc0387010973facc82409d8f7acf174efdb45d21a12306e3023009b",
+      "content": {
+        "primary_entity": "东方网络",
+        "keyword1": "东方网络",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_DESCRIPTION": "，东方网络面向需要稳定跨境网络的用户，提供基础版、旗舰版与团队版三档订阅。基础版每月 100GB 流量，适合手机与平板日常使用；旗舰版每月 300GB，支持 5 台设备并带有 IPLC 专线游戏加速；团队版每月 1000GB，可连接 20 台设备。按年付更划算，用户可依照自身设备数量与流量消耗选择合适套餐。",
+          "AI_HERO_SUBTITLE": "按需选套餐，多设备轻松连",
+          "AI_HERO_INTRO": "东方网络提供多档海外网络加速订阅，覆盖个人日常浏览、流媒体观看与团队协作等场景。用户可根据设备数量与每月流量需求，在基础版、旗舰版和团队版之间做出选择。",
+          "AI_VISUAL_TITLE": "东方网络加速订阅",
+          "AI_HIGHLIGHT_1": "三档套餐适配不同设备规模",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 游戏加速优化",
+          "AI_HIGHLIGHT_3": "年付方案节省整体订阅成本",
+          "AI_FEATURES_TITLE": "订阅功能与选择参考",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路三个角度对比套餐，找到适合日常使用的方案。",
+          "AI_FEATURE_TITLE_1": "按月流量选择",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB，旗舰版每月 300GB，团队版每月 1000GB，按日常用量高低匹配。",
+          "AI_FEATURE_TITLE_2": "按设备数量选择",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台，多设备家庭可选更高档位。",
+          "AI_FEATURE_TITLE_3": "按线路需求选择",
+          "AI_FEATURE_TEXT_3": "旗舰版提供 IPLC 专线游戏加速，团队版提供 VIP 高带宽节点，适合对延迟较敏感的用户。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "依照设备类型挑选对应客户端，导入订阅后即可使用。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版月付 ¥15，年付 ¥150；旗舰版月付 ¥35，年付 ¥350；团队版月付 ¥85，年付 ¥850。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "先评估设备数量和月流量，再查看套餐适配要求，最后按客户端文档完成订阅配置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "统计常用设备台数与每月大致流量，在基础版、旗舰版、团队版中选择对应档位。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统与套餐支持数量是否匹配，留意年付价格与月付价格的差异。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照所用客户端文档导入订阅信息，完成登录后即可开始使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "按需选套餐",
+          "AI_CLOSING_TEXT": "根据设备数量与月流量挑选合适的东方网络订阅，按年付更省成本。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "东方网络订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_1": "订阅成功后获取订阅链接，在所用客户端中选择从链接导入或扫码导入即可，具体步骤可参考对应客户端文档。",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时登录几台设备？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。超出数量时较早登录的设备可能被挤下线。",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_3": "年付折算后每月费用更低，例如基础版月付 ¥15，年付仅需 ¥150；旗舰版月付 ¥35，年付 ¥350。功能一致，仅计费周期不同。",
+          "AI_FAQ_QUESTION_4": "流量用完后会怎样？",
+          "AI_FAQ_ANSWER_4": "当月流量达到套餐上限后节点连接会暂停，可在下个计费周期恢复，或提前升级到更高流量档位继续使用。",
+          "AI_FAQ_QUESTION_5": "团队版适合哪些使用场景？",
+          "AI_FAQ_ANSWER_5": "团队版每月 1000GB、支持 20 台设备，并提供 VIP 节点与企业定制路由，适合多人共用或小型办公环境集中订阅。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xaykmfn.cn",
+    "host": "xaykmfn.cn"
+  },
+  "file_hashes": {
+    "index.html": "f2d52c6295e9fd9b69bf6107b947f4541a6cda1e7a018e12dbbdfb86139c57cc",
+    "sitemap.xml": "d8294593d109401ec6f1d2336c21f4068e3697b1c2cc9e87527436f20a68d373",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "4e79986c576887e2ce5f153cce8ba332dff626318bcee6e852ed2be6b43c3543",
+    "robots.txt": "1f7b481f219bff974274875802a06420c51c7d9f06b4dd251ff8e479182c75ee",
+    "1ee6ff1e463aba7d3221ddeacc06cfcd.txt": "3af89643549c4fd5386a76b512910e14b796676ff1f224b7d17e8f7a6278d3f4"
+  },
+  "revision": "3bc6c02049a2837f4df8caee68a8cbf1049322181141ee64f2c17e6d0ebf5937"
+}
